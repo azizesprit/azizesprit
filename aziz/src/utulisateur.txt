@@ -1,0 +1,13 @@
+a a a a etudiant 
+1 a a a a 
+etudiant 1 x x x 
+d d etudiant 2 c 
+c c c Administrateur 1 
+a a a a etudiant 
+1 c c c c 
+Technicien 1 a a a 
+a etudiant 1 a a 
+a a etudiant 1 a 
+a a a etudiant 1 
+b b b b Administrateur 
+1 x x x x 
